@@ -1,5 +1,5 @@
-## WinUI Calendar control samples
-This repository contains the samples that demonstrate the functionalities of WinUI Calendar control.
+## WinUI CalendarDatePicker control samples
+This repository contains the samples that demonstrate the functionalities of WinUI CalendarDatePicker control.
 
 <table>
  <tr>
