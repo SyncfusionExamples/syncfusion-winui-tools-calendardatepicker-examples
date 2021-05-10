@@ -26,7 +26,7 @@ namespace GettingStarted
         public MainWindow()
         {
             this.InitializeComponent();
-            this.Title = "WinUI Calendar - GettingStarted";
+            this.Title = "WinUI Calendar Date Picker - GettingStarted";
         }
 
     }
